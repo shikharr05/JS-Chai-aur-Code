@@ -21,3 +21,18 @@ let booleanLogged=Boolean(isLoggedIn)
 console.log(typeof isLoggedIn)
 console.log(typeof booleanLogged)
 console.log(booleanLogged)
+
+
+//********************************************OPERATIONS***********************************************/
+
+console.log("1"+2)/*this will give output as 12 as one of the input is sring so addition will be done as of string*/
+
+console.log(1+"2")// same as above
+
+console.log("1"+2+2)//this will give output as 122 as first input is string so all wil be considered as string
+
+console.log(1+2+"2")// this will give output as 32 as first addition will be normalyy and then it will be converted into string 
+
+let gc=100
+console.log(++gc)
+console.log(gc)
