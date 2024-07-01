@@ -36,3 +36,9 @@ console.log(1+2+"2")// this will give output as 32 as first addition will be nor
 let gc=100
 console.log(++gc)
 console.log(gc)
+
+//comparison and equality//
+
+console.log(2===2)//True
+console.log("2"===2)//False
+console.log("2"==2)//True
