@@ -42,3 +42,16 @@ console.log(gc)
 console.log(2===2)//True
 console.log("2"===2)//False
 console.log("2"==2)//True
+
+///////////////////////////////////////////////////**Pass By Reference**/////////////////////////////////////////////
+
+//arrays:-just like c :- arr[3], arr=["Shikhar,"ronit]
+
+//object:-just like dictionaries in python
+
+let myObj={
+    name:"Shikhar",
+    roll:123110021
+}
+
+//Functions:-
